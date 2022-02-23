@@ -97,9 +97,3 @@ Here are some ideas to get you started:
       />
     </a>
   </div>
-
-  <br /> <br />
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Jaay7/count.svg" />
-</p>
