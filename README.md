@@ -4,8 +4,6 @@
 
 <b>I'm a self-motivated, quick learner, and hardworking person has the ability to learn and migrate to the new skills based on the requirements.
 
-I'm currently pursuing 3rd year B.Tech. in Computer Science & Engineering at [K L University](https://www.kluniversity.in/).</b>
-
 - 📫 How to reach me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jayakrishna-sri-chaitanya-49aa6a192/)&nbsp;&nbsp;
@@ -13,7 +11,7 @@ I'm currently pursuing 3rd year B.Tech. in Computer Science & Engineering at [K 
 
 - 🏢 I am open to work:
 
-[<img alt="Resume" src="https://img.shields.io/badge/Resume-%23F9C23C?style=for-the-badge&logo=resume&logoColor=white" />](https://drive.google.com/file/d/1zZ_ys2Vn0gbWrJTzv4UVIkEdPARTuvTa/view?usp=sharing)&nbsp;&nbsp;
+[<img alt="Resume" src="https://img.shields.io/badge/Resume-%23F9C23C?style=for-the-badge&logo=resume&logoColor=white" />](https://drive.google.com/file/d/11RSBLJKCCgxeqAUv-XVUUEKmYccZf8wy/view?usp=sharing)&nbsp;&nbsp;
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23263238?style=for-the-badge&logo=portfolio&logoColor=white" />](https://jay-jaay7.vercel.app/)&nbsp;&nbsp;
 
 - 👯 I’m looking to collaborate on large scale open-source projects.
